@@ -1,6 +1,6 @@
 
 # The name of your website.
-name: Holo Alfa
+name: Cuchi
 
 description:
 
@@ -11,20 +11,20 @@ description:
   subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/stijnvc/holo-alfa">&lt;/&gt; on Github</a>.
 
 author:
-  name: Dr. Jekyll # Change this!
+  name: Cuchi # Change this!
 
   # Necessary for contact page
-  email: your@email.com # Change this!
+  email: hey@cuchi.dev # Change this!
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
   info:
 
-url: http://steinvc.github.io
-baseurl: "/holo-alfa"
+url: https://cuchi.dev
+baseurl: "/blog"
 
 # language attribute in <html> element.
-lang: en
+lang: es
 
 # FROM THIS POINT ON EVERYTHING IS OPTIONAL
 
